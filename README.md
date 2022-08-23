@@ -1,2 +1,2 @@
 # learn-html-css
-the first step to web development world
+the first step toward web development world
